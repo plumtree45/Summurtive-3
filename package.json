@@ -1,0 +1,26 @@
+{
+  "name": "contactusfile",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plumtree45/Summurtive-3.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plumtree45/Summurtive-3/issues"
+  },
+  "homepage": "https://github.com/plumtree45/Summurtive-3#readme"
+}
